@@ -1,1 +1,1 @@
-![image](https://user-images.githubusercontent.com/35929293/216784480-69247b09-c530-4939-8416-6dfd04ffeff3.png)
+![вижн для readme](https://github.com/week-password/.github/assets/26774826/31dd2159-22db-4a49-842d-07feb4a5e832)
